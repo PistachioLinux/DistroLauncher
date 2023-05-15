@@ -57,7 +57,10 @@
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
-    <Image Include=".\images\icon.ico">
+    <Image Include="C:\Users\Alexander\Downloads\icon.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\Alexander\Desktop\logo.png">
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>
